@@ -1,5 +1,6 @@
 ﻿using Dados;
 using TO;
+using TO.Enums;
 
 namespace Repositorio
 {
@@ -28,6 +29,5 @@ namespace Repositorio
             entity.Nascimento = to.Nascimento;
             entity.Sexo = (int)to.Sexo;
         }
-
     }
 }

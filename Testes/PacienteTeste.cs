@@ -2,6 +2,7 @@
 using Negocio;
 using System;
 using TO;
+using TO.Enums;
 
 namespace Testes
 {
