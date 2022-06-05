@@ -13,6 +13,6 @@ namespace TO
 
         public DateTime? Nascimento { get; set; }
 
-        public Sexo Sexo { get; set; }
+        public SexoEnum Sexo { get; set; }
     }
 }

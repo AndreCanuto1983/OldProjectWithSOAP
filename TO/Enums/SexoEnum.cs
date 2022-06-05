@@ -1,6 +1,6 @@
 ﻿namespace TO.Enums
 {
-    public enum Sexo
+    public enum SexoEnum
     {
         Masculino = 1,
         Feminino = 2,
